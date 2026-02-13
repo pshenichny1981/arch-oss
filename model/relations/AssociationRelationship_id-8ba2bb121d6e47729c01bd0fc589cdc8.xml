@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dhcp"
+    id="id-8ba2bb121d6e47729c01bd0fc589cdc8"
+    documentation="Клиентский сервер выполняет dhcp client request при перезагрузке в режиме PXE&#xA;получает:&#xA;* IP адрес для своего PXE интерфейса&#xA;* IP адрес TFTP сервера, на котором хранится скрипт загрузки ipxe.efi (dhcp option 66)">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf7cbf9dc6854892a920b2aebfd71e5d.xml#id-bf7cbf9dc6854892a920b2aebfd71e5d"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-4de27b1afe9b41a086a973d2ee8a9555.xml#id-4de27b1afe9b41a086a973d2ee8a9555"/>
+</archimate:AssociationRelationship>

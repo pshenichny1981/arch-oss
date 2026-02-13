@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-ef1124af132542e485482cdf623ef1ee"
+    documentation="Сервис провижиненга обращается к инвентори, чтобы получить данные профиля и связанного с ним устройства">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-5a7a5eb1de444986b9a37b29fbdfd576.xml#id-5a7a5eb1de444986b9a37b29fbdfd576"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-3151f84c48664f5dbfed0d1ac99ef60d.xml#id-3151f84c48664f5dbfed0d1ac99ef60d"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-73aeb89ad5f4452090fa87fa4b522830"
+    documentation="Пользователь открывает в браузере адинистративную консоль и передаёт ей свои учётные данные">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8f7fee2c525949f8ba9151cb04d64f61.xml#id-8f7fee2c525949f8ba9151cb04d64f61"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bf51fcdb55f54839819db326fb0da098.xml#id-bf51fcdb55f54839819db326fb0da098"/>
+</archimate:FlowRelationship>

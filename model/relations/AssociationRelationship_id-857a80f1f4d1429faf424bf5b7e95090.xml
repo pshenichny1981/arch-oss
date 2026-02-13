@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="streaming"
+    id="id-857a80f1f4d1429faf424bf5b7e95090"
+    documentation="Клиентский сервер скачивает образ ОС и первичные настройки клиентского сервера">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf7cbf9dc6854892a920b2aebfd71e5d.xml#id-bf7cbf9dc6854892a920b2aebfd71e5d"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-9c5c5bb4babe4ba5b79b38feb0e46b2a.xml#id-9c5c5bb4babe4ba5b79b38feb0e46b2a"/>
+</archimate:AssociationRelationship>

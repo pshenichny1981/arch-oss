@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-7d987579f358421cae8c390d7712e64b"
+    documentation="запрос на перезагрузку сервера через IPMI интерфейс в режиме PXE&#xA;">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-5a7a5eb1de444986b9a37b29fbdfd576.xml#id-5a7a5eb1de444986b9a37b29fbdfd576"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-bcfb6715655e48698f31f2b1686e4a24.xml#id-bcfb6715655e48698f31f2b1686e4a24"/>
+</archimate:FlowRelationship>

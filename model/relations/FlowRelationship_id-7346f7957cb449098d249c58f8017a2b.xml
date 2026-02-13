@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7346f7957cb449098d249c58f8017a2b"
+    documentation="При попытке авторизации пользователя, административная консоль отправляет учётные данные пользователя в сервис аутентификации (он же является сервисом авторизации)&#xA;Сервис авторизации возвращает токен пользователя, который содержит роли системы, назначенные пользователю.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bf51fcdb55f54839819db326fb0da098.xml#id-bf51fcdb55f54839819db326fb0da098"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-795136eb38ed4ff08390a31653b1d490.xml#id-795136eb38ed4ff08390a31653b1d490"/>
+</archimate:FlowRelationship>

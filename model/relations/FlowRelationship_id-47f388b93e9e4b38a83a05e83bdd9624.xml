@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gorm"
+    id="id-47f388b93e9e4b38a83a05e83bdd9624">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-5a7a5eb1de444986b9a37b29fbdfd576.xml#id-5a7a5eb1de444986b9a37b29fbdfd576"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-6eb3392a6bd4472785e36fbb027b0985.xml#id-6eb3392a6bd4472785e36fbb027b0985"/>
+</archimate:FlowRelationship>

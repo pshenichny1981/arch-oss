@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-admin-oss-ri-devices"
+    id="id-10ab420d08964314b93b7f14d0b4e459"
+    documentation="Микросервис управляет доступом к фронту CloudOM в административной консоли"/>

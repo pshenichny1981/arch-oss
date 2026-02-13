@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web request"
+    id="id-66700da1387944ef9c227dc0f5e8f535"
+    documentation="Пользователь попадает в микрофронт CloudOM&#xA;">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8f7fee2c525949f8ba9151cb04d64f61.xml#id-8f7fee2c525949f8ba9151cb04d64f61"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-10ab420d08964314b93b7f14d0b4e459.xml#id-10ab420d08964314b93b7f14d0b4e459"/>
+</archimate:FlowRelationship>

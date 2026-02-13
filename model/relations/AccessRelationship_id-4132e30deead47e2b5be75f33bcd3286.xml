@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="redfish"
+    id="id-4132e30deead47e2b5be75f33bcd3286"
+    documentation="запрос на перезагрузку сервера через IPMI интерфейс в режиме PXE"
+    accessType="2">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-bcfb6715655e48698f31f2b1686e4a24.xml#id-bcfb6715655e48698f31f2b1686e4a24"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf7cbf9dc6854892a920b2aebfd71e5d.xml#id-bf7cbf9dc6854892a920b2aebfd71e5d"/>
+</archimate:AccessRelationship>

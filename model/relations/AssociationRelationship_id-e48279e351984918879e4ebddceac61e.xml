@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="http"
+    id="id-e48279e351984918879e4ebddceac61e"
+    documentation="Клиентский сервер сообщает об успешном статусе установки ОС">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bf7cbf9dc6854892a920b2aebfd71e5d.xml#id-bf7cbf9dc6854892a920b2aebfd71e5d"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-9eeeee8c27c74cb487ffe555e483f208.xml#id-9eeeee8c27c74cb487ffe555e483f208"/>
+</archimate:AssociationRelationship>
