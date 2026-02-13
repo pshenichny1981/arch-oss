@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web request"
     id="id-73aeb89ad5f4452090fa87fa4b522830"
     documentation="Пользователь открывает в браузере адинистративную консоль и передаёт ей свои учётные данные">
   <source
