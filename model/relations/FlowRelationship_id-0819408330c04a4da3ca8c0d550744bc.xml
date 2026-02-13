@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-0819408330c04a4da3ca8c0d550744bc"
+    documentation="Пользователь административой консоли через ain-core-bff обращается к сервису discrepancy-reporter для построения отчёта о несоответствиях">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-448c925367ca4a2d822c9d21987955e9.xml#id-448c925367ca4a2d822c9d21987955e9"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-e88aa71b24ca42d08d3907ec04015156.xml#id-e88aa71b24ca42d08d3907ec04015156"/>
+</archimate:FlowRelationship>

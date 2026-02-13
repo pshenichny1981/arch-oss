@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="prom-operator"
+    id="id-fd22880338b646f388e949f947232da7"
+    documentation="Оператор prometheus вызывает сервис om-snmp-exporter для получения метрик в формате prometheus и передаёт их по протоколу remote-write"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="remote-write"
+    id="id-1bff944288114394bb89a17be801072a"
+    documentation="remote_write:&#xA;  - url: &quot;http://&lt;remote-write-endpoint>/api/v1/write&quot;&#xA;    # Other configuration options like `remote_timeout`, `queue_config` can be added here&#xA;    write_relabel_configs:&#xA;      - source_labels: [&quot;__name__&quot;]&#xA;        regex: &quot;^(metric_name_1|metric_name_2|another_metric_name)$&quot;&#xA;        action: keep">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-fd22880338b646f388e949f947232da7.xml#id-fd22880338b646f388e949f947232da7"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-e88aa71b24ca42d08d3907ec04015156.xml#id-e88aa71b24ca42d08d3907ec04015156"/>
+</archimate:FlowRelationship>
