@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.51.64/26"
+    id="id-f61d0b4858b74336bd762f058aa370fc"
+    documentation="Сеть для storage (CSI dropapp) интерфейсов серверов vrf int Undercloud"/>

@@ -4,8 +4,8 @@
     name="gorm"
     id="id-eb320a779c7445fe82a5d5965ddbb9ad">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-3151f84c48664f5dbfed0d1ac99ef60d.xml#id-3151f84c48664f5dbfed0d1ac99ef60d"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-f3e5605fe872421fa0f84581c124b758.xml#id-f3e5605fe872421fa0f84581c124b758"/>
   <target
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-6eb3392a6bd4472785e36fbb027b0985.xml#id-6eb3392a6bd4472785e36fbb027b0985"/>

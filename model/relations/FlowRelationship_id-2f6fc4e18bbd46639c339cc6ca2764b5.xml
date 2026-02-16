@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="remote-write"
+    id="id-2f6fc4e18bbd46639c339cc6ca2764b5">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-ea125dce5aa547d6b248a702536428b4.xml#id-ea125dce5aa547d6b248a702536428b4"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-4b7efc6022294a00baed60774770498c.xml#id-4b7efc6022294a00baed60774770498c"/>
+</archimate:FlowRelationship>

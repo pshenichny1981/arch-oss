@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="http"
+    id="id-a3fd9f540fe84f339f59c165ffd3495a"
+    documentation="Синхронизация конфигурации">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-030e6bd5a4af418383673ee19a3ff251.xml#id-030e6bd5a4af418383673ee19a3ff251"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6338cc671eda4a4daa863727338f2703.xml#id-6338cc671eda4a4daa863727338f2703"/>
+</archimate:FlowRelationship>

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="streaming"
+    name="streaming &amp; tftp"
     id="id-857a80f1f4d1429faf424bf5b7e95090"
     documentation="Клиентский сервер скачивает образ ОС и первичные настройки клиентского сервера">
   <source

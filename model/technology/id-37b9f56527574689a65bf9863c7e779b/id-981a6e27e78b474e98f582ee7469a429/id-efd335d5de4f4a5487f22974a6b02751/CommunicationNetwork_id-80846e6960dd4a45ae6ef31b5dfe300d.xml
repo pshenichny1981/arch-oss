@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.83.0/26"
+    id="id-80846e6960dd4a45ae6ef31b5dfe300d"
+    documentation="Сеть для OVS/OVN интерфейсов серверов vrf ext_B"/>

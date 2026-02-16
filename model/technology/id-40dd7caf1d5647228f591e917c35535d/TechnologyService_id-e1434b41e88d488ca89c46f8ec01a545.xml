@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="prometheus-operator"
-    id="id-e1434b41e88d488ca89c46f8ec01a545"/>
+    id="id-e1434b41e88d488ca89c46f8ec01a545"
+    documentation="Конфигурация опроса устройств (scrape-config):&#xA;* ссылка на параметры авторизации&#xA;* список OID'ов для мониторинга по snmp&#xA;* IP адреса ecnhjqcnd"/>

@@ -6,8 +6,8 @@
     documentation="deployOS">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-448c925367ca4a2d822c9d21987955e9.xml#id-448c925367ca4a2d822c9d21987955e9"/>
+      href="ApplicationInterface_id-e66543ec919c44ab8cf3bb569ead350c.xml#id-e66543ec919c44ab8cf3bb569ead350c"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-5a7a5eb1de444986b9a37b29fbdfd576.xml#id-5a7a5eb1de444986b9a37b29fbdfd576"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-bfd34097b20147638c4ff059728e4177.xml#id-bfd34097b20147638c4ff059728e4177"/>
 </archimate:FlowRelationship>

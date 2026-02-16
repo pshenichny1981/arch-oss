@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.100.64/26"
+    id="id-77a3cdc4ce2a40f69004d394ce7f5be1"
+    documentation="Сеть для провиженинга серверов (vrf mgt) - DEFAULT"/>

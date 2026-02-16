@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.99.192/26"
+    id="id-8ad9612ac4a847ba9bb692048fd50c26"
+    documentation="Сеть для service_dropapp интерфейсов серверов vrf mgt"/>

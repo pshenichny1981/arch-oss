@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.51.128/26"
+    id="id-d0d0906074ae4fc8a0fb2a79fe443685"
+    documentation="Сеть для storage интерфейсов серверов vrf int Overcloud_A"/>

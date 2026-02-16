@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ain-core-bff"
-    id="id-448c925367ca4a2d822c9d21987955e9"/>
+    id="id-448c925367ca4a2d822c9d21987955e9"
+    documentation="https://git.sbercloud.tech/cp/go/integration/ain-core-bff/-/blob/develop/pkg/ain-core-bff/v1/api.swagger.json"/>

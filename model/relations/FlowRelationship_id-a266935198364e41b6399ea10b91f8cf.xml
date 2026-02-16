@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="remote-write"
+    id="id-a266935198364e41b6399ea10b91f8cf"
+    documentation="отправка метрик мониторинга в формате prometheus">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-ea125dce5aa547d6b248a702536428b4.xml#id-ea125dce5aa547d6b248a702536428b4"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-39f1b5c2cb784f8ead7ff901a5ac1391.xml#id-39f1b5c2cb784f8ead7ff901a5ac1391"/>
+</archimate:FlowRelationship>

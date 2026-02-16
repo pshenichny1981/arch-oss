@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-ipam"
+    id="id-3b7e81c2fef1477c8b5eccc521b4ccfd"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-ipam/-/tree/develop/api/oss-ipam/v1?ref_type=heads"/>

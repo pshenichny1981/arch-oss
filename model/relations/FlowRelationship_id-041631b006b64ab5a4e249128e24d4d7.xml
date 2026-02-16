@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-041631b006b64ab5a4e249128e24d4d7">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-a89073693f0042149a6e805760ffcf17.xml#id-a89073693f0042149a6e805760ffcf17"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-a89073693f0042149a6e805760ffcf17.xml#id-a89073693f0042149a6e805760ffcf17"/>
+</archimate:FlowRelationship>

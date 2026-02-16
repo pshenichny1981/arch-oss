@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.99.128/26"
+    id="id-2746de2cc41e4e7db1db9efbed0c9868"
+    documentation="Сеть mgmt для Openstack (vrf mgt)    "/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="overcloud_controller"
+    id="id-90225d659eab47828027c9d36b26e578"
+    documentation="Сервер с ролью compute evolution stack для OverCloud"/>

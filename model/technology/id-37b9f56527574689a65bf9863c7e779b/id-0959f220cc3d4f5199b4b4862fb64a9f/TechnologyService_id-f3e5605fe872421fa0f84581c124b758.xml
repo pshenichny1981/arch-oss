@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-active-inventory"
+    id="id-f3e5605fe872421fa0f84581c124b758"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-active-inventory/-/tree/develop/api/aincore"/>

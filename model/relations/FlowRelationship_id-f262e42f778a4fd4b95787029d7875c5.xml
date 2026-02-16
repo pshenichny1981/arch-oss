@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="http"
+    id="id-f262e42f778a4fd4b95787029d7875c5"
+    documentation="запрос с токеном в заголовке">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-307b89c3bc204910aa26bf89fdc4a87b.xml#id-307b89c3bc204910aa26bf89fdc4a87b"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-9f428e84c2394978b7694af8cefb04db.xml#id-9f428e84c2394978b7694af8cefb04db"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-agent-control-plane"
+    id="id-6338cc671eda4a4daa863727338f2703"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-agent-control-plane/-/blob/develop/api/sbercloud/agent-control-plane-api/v1/agent-control-plane-api.proto?ref_type=heads"/>

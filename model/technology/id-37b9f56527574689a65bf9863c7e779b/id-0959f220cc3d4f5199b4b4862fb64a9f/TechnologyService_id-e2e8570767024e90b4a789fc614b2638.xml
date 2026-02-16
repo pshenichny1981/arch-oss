@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-data-collection"
+    id="id-e2e8570767024e90b4a789fc614b2638"
+    documentation="Сервис хранит настройки профилей мониторинга по snmp:&#xA;* auth - ссылка на учётные данные, которые хранятся в secret менеджере &#xA;* module - набор OID'ов для мониторинга по SNMP"/>

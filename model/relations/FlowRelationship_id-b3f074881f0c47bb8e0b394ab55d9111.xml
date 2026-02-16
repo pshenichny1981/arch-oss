@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-b3f074881f0c47bb8e0b394ab55d9111"
+    documentation="Создание сервисной учётной записи&#xA;Создание ключа сервисной УЗ">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6338cc671eda4a4daa863727338f2703.xml#id-6338cc671eda4a4daa863727338f2703"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-3c25b6dfd19544d6ae135edda305ba89.xml#id-3c25b6dfd19544d6ae135edda305ba89"/>
+</archimate:FlowRelationship>

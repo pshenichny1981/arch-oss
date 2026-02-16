@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grpc"
+    id="id-a8df6210466d4a81bd48832e3d6332bc">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-278a1580ffde4637b2dbe33e5b398304.xml#id-278a1580ffde4637b2dbe33e5b398304"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-a89073693f0042149a6e805760ffcf17.xml#id-a89073693f0042149a6e805760ffcf17"/>
+</archimate:TriggeringRelationship>

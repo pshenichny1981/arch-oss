@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pd14-srv-045"
+    id="id-d9aa99605c954931be6d2668c16305e0">
+  <properties
+      key="hostname"
+      value="pd14-srv-045"/>
+</archimate:Device>

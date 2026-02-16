@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="oss-server-provisioning-bff"
-    id="id-e66543ec919c44ab8cf3bb569ead350c"/>
+    id="id-e66543ec919c44ab8cf3bb569ead350c"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-server-provisioning/-/blob/develop/pkg/oss-server-provisioning/v1/api.swagger.json"/>

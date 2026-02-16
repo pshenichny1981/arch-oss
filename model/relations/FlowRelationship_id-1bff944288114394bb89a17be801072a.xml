@@ -8,6 +8,6 @@
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-fd22880338b646f388e949f947232da7.xml#id-fd22880338b646f388e949f947232da7"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-e88aa71b24ca42d08d3907ec04015156.xml#id-e88aa71b24ca42d08d3907ec04015156"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-4b7efc6022294a00baed60774770498c.xml#id-4b7efc6022294a00baed60774770498c"/>
 </archimate:FlowRelationship>

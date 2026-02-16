@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.51.0/26"
+    id="id-21368826544d445c9abe26d537bd918f"
+    documentation="Сеть для storage интерфейсов серверов vrf int Undercloud"/>

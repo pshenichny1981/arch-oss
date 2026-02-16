@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HCI_controller"
+    id="id-d479d41370d34008b3c4f25f726e0c7c"
+    documentation="Сервер с совмещенной ролью, на сервере есть SDS + роль controller+Network"/>

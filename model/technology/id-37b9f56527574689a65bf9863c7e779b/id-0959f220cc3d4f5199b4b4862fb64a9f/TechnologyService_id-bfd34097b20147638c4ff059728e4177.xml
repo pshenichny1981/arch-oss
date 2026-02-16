@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oss-server-provisioning"
+    id="id-bfd34097b20147638c4ff059728e4177"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-server-provisioning/-/tree/develop/api/oss-server-provisioning/v1?ref_type=heads"/>

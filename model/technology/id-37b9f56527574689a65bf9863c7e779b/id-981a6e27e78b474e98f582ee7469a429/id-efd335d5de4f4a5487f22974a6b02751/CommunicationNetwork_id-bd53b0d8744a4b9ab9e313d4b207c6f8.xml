@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.14.100.192/26"
+    id="id-bd53b0d8744a4b9ab9e313d4b207c6f8"
+    documentation="Сеть для mgt интерфейсов серверов vrf mgt Overcloud_B"/>

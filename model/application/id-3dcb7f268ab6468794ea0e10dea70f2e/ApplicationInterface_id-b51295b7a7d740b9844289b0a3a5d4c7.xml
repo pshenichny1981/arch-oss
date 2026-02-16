@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="oss-agent-control-plane-bff"
-    id="id-b51295b7a7d740b9844289b0a3a5d4c7"/>
+    id="id-b51295b7a7d740b9844289b0a3a5d4c7"
+    documentation="https://git.sbercloud.tech/cp/go/integration/oss-agent-control-plane/-/blob/develop/pkg/agent-control-plane/v1/api.swagger.json"/>
